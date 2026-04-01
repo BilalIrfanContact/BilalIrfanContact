@@ -28,44 +28,54 @@ I work professionally as a full-time software developer where I've built backend
 ## 🛠️ Tech Stack
 
 ### 🧠 AI / ML
-<p>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/chroma-seeklogo.svg" alt="Chroma" height="42"/><br/>Chroma</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/claude-ai-icon.svg" alt="Claude" height="42"/><br/>Claude</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/openai_dark.svg" alt="OpenAI" height="42"/><br/>OpenAI</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/codex_dark.svg" alt="Codex" height="42"/><br/>Codex</span>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="./Icons/chroma-seeklogo.svg" alt="Chroma" height="42"/><br/>Chroma</td>
+    <td align="center" width="96"><img src="./Icons/claude-ai-icon.svg" alt="Claude" height="42"/><br/>Claude</td>
+    <td align="center" width="96"><img src="./Icons/openai_dark.svg" alt="OpenAI" height="42"/><br/>OpenAI</td>
+    <td align="center" width="96"><img src="./Icons/codex_dark.svg" alt="Codex" height="42"/><br/>Codex</td>
+  </tr>
+</table>
 
 ### ⚙️ Backend
-<p>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/python.svg" alt="Python" height="42"/><br/>Python</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/django.svg" alt="Django" height="42"/><br/>Django</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/fastapi.svg" alt="FastAPI" height="42"/><br/>FastAPI</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/flask-dark.svg" alt="Flask" height="42"/><br/>Flask</span>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="./Icons/python.svg" alt="Python" height="42"/><br/>Python</td>
+    <td align="center" width="96"><img src="./Icons/django.svg" alt="Django" height="42"/><br/>Django</td>
+    <td align="center" width="96"><img src="./Icons/fastapi.svg" alt="FastAPI" height="42"/><br/>FastAPI</td>
+    <td align="center" width="96"><img src="./Icons/flask-dark.svg" alt="Flask" height="42"/><br/>Flask</td>
+  </tr>
+</table>
 
 ### 🎨 Frontend
-<p>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/react_dark.svg" alt="React" height="42"/><br/>React</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/javascript.svg" alt="JavaScript" height="42"/><br/>JavaScript</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/typescript.svg" alt="TypeScript" height="42"/><br/>TypeScript</span>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="./Icons/react_dark.svg" alt="React" height="42"/><br/>React</td>
+    <td align="center" width="96"><img src="./Icons/javascript.svg" alt="JavaScript" height="42"/><br/>JavaScript</td>
+    <td align="center" width="96"><img src="./Icons/typescript.svg" alt="TypeScript" height="42"/><br/>TypeScript</td>
+  </tr>
+</table>
 
 ### 🗄️ Databases
-<p>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/mongodb-icon-dark.svg" alt="MongoDB" height="42"/><br/>MongoDB</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/postgresql.svg" alt="PostgreSQL" height="42"/><br/>PostgreSQL</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/sql-server.svg" alt="SQL Server" height="42"/><br/>SQL Server</span>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="./Icons/mongodb-icon-dark.svg" alt="MongoDB" height="42"/><br/>MongoDB</td>
+    <td align="center" width="96"><img src="./Icons/postgresql.svg" alt="PostgreSQL" height="42"/><br/>PostgreSQL</td>
+    <td align="center" width="96"><img src="./Icons/sql-server.svg" alt="SQL Server" height="42"/><br/>SQL Server</td>
+  </tr>
+</table>
 
 ### 🛠️ Tools & DevOps
-<p>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/git.svg" alt="Git" height="42"/><br/>Git</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/github_dark.svg" alt="GitHub" height="42"/><br/>GitHub</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/postman.svg" alt="Postman" height="42"/><br/>Postman</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/vercel_dark.svg" alt="Vercel" height="42"/><br/>Vercel</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/vscode.svg" alt="VS Code" height="42"/><br/>VS Code</span>
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/linux.svg" alt="Linux" height="42"/><br/>Linux</span>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="./Icons/git.svg" alt="Git" height="42"/><br/>Git</td>
+    <td align="center" width="96"><img src="./Icons/github_dark.svg" alt="GitHub" height="42"/><br/>GitHub</td>
+    <td align="center" width="96"><img src="./Icons/postman.svg" alt="Postman" height="42"/><br/>Postman</td>
+    <td align="center" width="96"><img src="./Icons/vercel_dark.svg" alt="Vercel" height="42"/><br/>Vercel</td>
+    <td align="center" width="96"><img src="./Icons/vscode.svg" alt="VS Code" height="42"/><br/>VS Code</td>
+    <td align="center" width="96"><img src="./Icons/linux.svg" alt="Linux" height="42"/><br/>Linux</td>
+  </tr>
+</table>
 
 ---
 
@@ -97,13 +107,15 @@ I work professionally as a full-time software developer where I've built backend
 <div align="center">
 
 <a href="mailto:bilalirfancontact@gmail.com">
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/gmail.svg" alt="Gmail" height="44"/><br/>Gmail</span>
+  <img src="./Icons/gmail.svg" alt="Gmail" height="44"/><br/>Gmail
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/bilalirfancontact">
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/linkedin.svg" alt="LinkedIn" height="44"/><br/>LinkedIn</span>
+  <img src="./Icons/linkedin.svg" alt="LinkedIn" height="44"/><br/>LinkedIn
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/BilalIrfanContact">
-  <span style="display:inline-block;text-align:center;margin:8px 10px;"><img src="./Icons/github_dark.svg" alt="GitHub" height="44"/><br/>GitHub</span>
+  <img src="./Icons/github_dark.svg" alt="GitHub" height="44"/><br/>GitHub
 </a>
 
 </div>

@@ -82,8 +82,6 @@ I work professionally as a full-time software developer where I've built backend
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilalIrfanContact&theme=tokyonight" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilalIrfanContact&theme=tokyonight" width="40%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalIrfanContact&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="55%"/>

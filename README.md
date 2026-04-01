@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## 👋 About Me
 
@@ -23,11 +22,10 @@ I work professionally as a full-time software developer where I've built backend
 - 💬 Ask me about RAG pipelines, LangChain, FastAPI, Next.js
 - 📫 Reach me at bilalirfancontact@gmail.com
 - 📍 Based in Karachi, Pakistan
----
 
 ## 🛠️ Tech Stack
 
-### 🧠 AI / ML
+### AI / ML
 <table style="border:none;border-collapse:collapse;">
   <tr>
     <td align="center" width="96" style="border:none;"><img src="./Icons/chroma-seeklogo.svg" alt="Chroma" height="42"/><br/>Chroma</td>
@@ -37,7 +35,7 @@ I work professionally as a full-time software developer where I've built backend
   </tr>
 </table>
 
-### ⚙️ Backend
+### Backend
 <table style="border:none;border-collapse:collapse;">
   <tr>
     <td align="center" width="96" style="border:none;"><img src="./Icons/python.svg" alt="Python" height="42"/><br/>Python</td>
@@ -47,7 +45,7 @@ I work professionally as a full-time software developer where I've built backend
   </tr>
 </table>
 
-### 🎨 Frontend
+### Frontend
 <table style="border:none;border-collapse:collapse;">
   <tr>
     <td align="center" width="96" style="border:none;"><img src="./Icons/react_dark.svg" alt="React" height="42"/><br/>React</td>
@@ -56,7 +54,7 @@ I work professionally as a full-time software developer where I've built backend
   </tr>
 </table>
 
-### 🗄️ Databases
+### Databases
 <table style="border:none;border-collapse:collapse;">
   <tr>
     <td align="center" width="96" style="border:none;"><img src="./Icons/mongodb-icon-dark.svg" alt="MongoDB" height="42"/><br/>MongoDB</td>
@@ -77,7 +75,6 @@ I work professionally as a full-time software developer where I've built backend
   </tr>
 </table>
 
----
 
 ## 📊 GitHub Stats
 
@@ -94,9 +91,9 @@ I work professionally as a full-time software developer where I've built backend
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🤖 [Machine Learning A-Z: AI, Python & R](https://www.udemy.com/certificate/UC-8f80493e-e90c-4146-993c-0a3b51cee06f/) | Udemy | 2026 |
-| ⚡ [Claude Code in Action](https://verify.skilljar.com/c/ccqmbxa5poy8) | Anthropic | 2026 |
-| 📊 [Introduction to Career Skills in Data Analytics](https://www.linkedin.com/learning/certificates/6206c4e1faf9280e9e377c11fdcff60c4c82cfd29b7c21df08b5280551d23ea8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOkuyMCXUT1qDj46ODO801Q%3D%3D) | LinkedIn | 2024 |
+|  [Machine Learning A-Z: AI, Python & R](https://www.udemy.com/certificate/UC-8f80493e-e90c-4146-993c-0a3b51cee06f/) | Udemy | 2026 |
+|  [Claude Code in Action](https://verify.skilljar.com/c/ccqmbxa5poy8) | Anthropic | 2026 |
+|  [Introduction to Career Skills in Data Analytics](https://www.linkedin.com/learning/certificates/6206c4e1faf9280e9e377c11fdcff60c4c82cfd29b7c21df08b5280551d23ea8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOkuyMCXUT1qDj46ODO801Q%3D%3D) | LinkedIn | 2024 |
 
 ---
 

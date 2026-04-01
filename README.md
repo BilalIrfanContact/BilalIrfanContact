@@ -33,7 +33,7 @@ I work professionally as a full-time software developer where I've built backend
     <td align="center" width="96" style="border:none;"><img src="./Icons/chroma-seeklogo.svg" alt="Chroma" height="42"/><br/>Chroma</td>
     <td align="center" width="96" style="border:none;"><img src="./Icons/claude-ai-icon.svg" alt="Claude" height="42"/><br/>Claude</td>
     <td align="center" width="96" style="border:none;"><img src="./Icons/openai_dark.svg" alt="OpenAI" height="42"/><br/>OpenAI</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/codex-color.svg" alt="Codex" height="52"/><br/>Codex</td>
+    <td align="center" width="96" style="border:none;"><img src="./Icons/codex-color.svg" height="42" width="42"/><br/>Codex</td>
   </tr>
 </table>
 

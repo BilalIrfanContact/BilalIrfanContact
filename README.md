@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=200&section=header&text=Bilal%20Irfan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20AI%20Engineer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./Icons/profile-header.svg" alt="Bilal Irfan Header" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+applications;RAG+Pipelines+%C2%B7+Agentic+AI+%C2%B7+LLMs;FastAPI+%C2%B7+Next.js+%C2%B7+LangChain;Open+to+AI+Engineering+roles+%26+Freelance" alt="Typing SVG" />

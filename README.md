@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="./Icons/profile-banner.png" alt="Bilal Irfan Header" width="100%"/>
+<!-- <img src="./Icons/profile-banner.png" alt="Bilal Irfan Header" width="100%"/> -->
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+applications;RAG+Pipelines+%C2%B7+Agentic+AI+%C2%B7+LLMs;FastAPI+%C2%B7+Next.js+%C2%B7+LangChain;Open+to+AI+Engineering+roles+%26+Freelance" alt="Typing SVG" />
@@ -37,6 +37,7 @@ I work professionally as a full-time software developer where I've built backend
 
 ### ⚙️ Backend
 <p>
+  <img src="./Icons/python.svg" alt="Python" height="42"/>
   <img src="./Icons/django.svg" alt="Django" height="42"/>
   <img src="./Icons/fastapi.svg" alt="FastAPI" height="42"/>
   <img src="./Icons/flask-dark.svg" alt="Flask" height="42"/>
@@ -62,7 +63,7 @@ I work professionally as a full-time software developer where I've built backend
   <img src="./Icons/github_dark.svg" alt="GitHub" height="42"/>
   <img src="./Icons/postman.svg" alt="Postman" height="42"/>
   <img src="./Icons/vercel_dark.svg" alt="Vercel" height="42"/>
-  <img src="./Icons/vscode.svg" alt="VS Code" height="42"/>
+  <img src="./Icons/vscode.svg" alt="VS Code" height="42"/> 
   <img src="./Icons/linux.svg" alt="Linux" height="42"/>
 </p>
 
@@ -72,8 +73,8 @@ I work professionally as a full-time software developer where I've built backend
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BilalIrfanContact&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&ring_color=00d4ff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilalIrfanContact&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BilalIrfanContact&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BilalIrfanContact&theme=tokyonight" width="40%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalIrfanContact&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="55%"/>
 
@@ -85,9 +86,9 @@ I work professionally as a full-time software developer where I've built backend
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 🤖 Machine Learning A-Z: AI, Python & R | Udemy | 2026 |
-| ⚡ Claude Code in Action | Anthropic | 2026 |
-| 📊 Introduction to Career Skills in Data Analytics | LinkedIn | 2024 |
+| 🤖 [Machine Learning A-Z: AI, Python & R](https://www.udemy.com/certificate/UC-8f80493e-e90c-4146-993c-0a3b51cee06f/) | Udemy | 2026 |
+| ⚡ [Claude Code in Action](https://verify.skilljar.com/c/ccqmbxa5poy8) | Anthropic | 2026 |
+| 📊 [Introduction to Career Skills in Data Analytics](https://www.linkedin.com/learning/certificates/6206c4e1faf9280e9e377c11fdcff60c4c82cfd29b7c21df08b5280551d23ea8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOkuyMCXUT1qDj46ODO801Q%3D%3D) | LinkedIn | 2024 |
 
 ---
 
@@ -100,6 +101,9 @@ I work professionally as a full-time software developer where I've built backend
 </a>
 <a href="https://linkedin.com/in/bilalirfancontact">
   <img src="./Icons/linkedin.svg" alt="LinkedIn" height="44"/>
+</a>
+<a href="https://github.com/BilalIrfanContact">
+  <img src="./Icons/github_dark.svg" alt="GitHub" height="44"/>
 </a>
 
 </div>

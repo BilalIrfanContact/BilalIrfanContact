@@ -22,6 +22,7 @@ I work professionally as a full-time software developer where I've built backend
 - 💬 Ask me about RAG pipelines, LangChain, FastAPI, Next.js
 - 📫 Reach me at bilalirfancontact@gmail.com
 - 📍 Based in Karachi, Pakistan
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -62,6 +63,7 @@ I work professionally as a full-time software developer where I've built backend
     <td align="center" width="96" style="border:none;"><img src="./Icons/sql-server.svg" alt="SQL Server" height="42"/><br/>SQL Server</td>
   </tr>
 </table>
+<br>
 
 ### 🛠️ Tools & DevOps
 <table style="border:none;border-collapse:collapse;">
@@ -74,7 +76,7 @@ I work professionally as a full-time software developer where I've built backend
     <td align="center" width="96" style="border:none;"><img src="./Icons/linux.svg" alt="Linux" height="42"/><br/>Linux</td>
   </tr>
 </table>
-
+<br>
 
 ## 📊 GitHub Stats
 
@@ -84,18 +86,16 @@ I work professionally as a full-time software developer where I've built backend
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilalIrfanContact&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="55%"/>
 
 </div>
+<br>
 
----
-
-## 🏆 Certifications
+## 🎓 Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
 |  [Machine Learning A-Z: AI, Python & R](https://www.udemy.com/certificate/UC-8f80493e-e90c-4146-993c-0a3b51cee06f/) | Udemy | 2026 |
 |  [Claude Code in Action](https://verify.skilljar.com/c/ccqmbxa5poy8) | Anthropic | 2026 |
 |  [Introduction to Career Skills in Data Analytics](https://www.linkedin.com/learning/certificates/6206c4e1faf9280e9e377c11fdcff60c4c82cfd29b7c21df08b5280551d23ea8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BOkuyMCXUT1qDj46ODO801Q%3D%3D) | LinkedIn | 2024 |
-
----
+<br>
 
 ## 🌐 Contact / Social
 
@@ -113,7 +113,6 @@ I work professionally as a full-time software developer where I've built backend
   </a>
 </div>
 
----
 
 <div align="center">
 

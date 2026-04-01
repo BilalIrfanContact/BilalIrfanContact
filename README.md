@@ -110,6 +110,14 @@ I work professionally as a full-time software developer where I've built backend
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/BilalIrfanContact">
     <img src="./Icons/github_dark.svg" alt="GitHub" height="44"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.reddit.com/user/biloo0asks/">
+    <img src="./Icons/reddit.svg" alt="Reddit" height="44"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+      </a>
+    <a href="https://x.com/biloo0_2">
+    <img src="./Icons/x_dark.svg" alt="X" height="44"/>
+  </a>
   </a>
 </div>
 

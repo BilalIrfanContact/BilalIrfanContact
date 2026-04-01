@@ -105,19 +105,17 @@ I work professionally as a full-time software developer where I've built backend
 ## 🌐 Contact / Social
 
 <div align="center">
-
-<a href="mailto:bilalirfancontact@gmail.com">
-  <img src="./Icons/gmail.svg" alt="Gmail" height="44"/><br/>Gmail
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/bilalirfancontact">
-  <img src="./Icons/linkedin.svg" alt="LinkedIn" height="44"/><br/>LinkedIn
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BilalIrfanContact">
-  <img src="./Icons/github_dark.svg" alt="GitHub" height="44"/><br/>GitHub
-</a>
-
+  <a href="mailto:bilalirfancontact@gmail.com">
+    <img src="./Icons/gmail.svg" alt="Gmail" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/bilalirfancontact">
+    <img src="./Icons/linkedin.svg" alt="LinkedIn" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/BilalIrfanContact">
+    <img src="./Icons/github_dark.svg" alt="GitHub" height="44"/>
+  </a>
 </div>
 
 ---

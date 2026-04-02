@@ -63,7 +63,6 @@ I work professionally as a full-time software developer where I've built backend
     <td align="center" width="96" style="border:none;"><img src="./Icons/sql-server.svg" alt="SQL Server" height="42"/><br/>SQL Server</td>
   </tr>
 </table>
-<br>
 
 ### 🛠️ Tools & DevOps
 <table style="border:none;border-collapse:collapse;">

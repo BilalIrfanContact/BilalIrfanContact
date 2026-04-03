@@ -16,7 +16,7 @@ I'm a full-stack developer based in **Karachi, Pakistan**, focused on AI enginee
 I work professionally as a full-time software developer where I've built backend systems, REST APIs, and full-stack web applications across industries like finance, customs and many more. Outside of work I'm focused on AI projects, exploring new tools in the space, and moving deeper into AI engineering.
 
 - 🔭 Currently building **MotionMap**: a real-time, offline webcam classifier that maps objects to system actions
-- 🌱 Currently learning **Claude API (Anthropic)**
+- 🌱 Currently learning **Building with the Claude API (Anthropic)**
 - 🛠️ Recent projects **AskMyDoc** & **AskMyData**
 - 💼 Open to AI engineering roles & freelance work
 - 💬 Ask me about RAG pipelines, LangChain, FastAPI, Next.js

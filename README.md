@@ -79,7 +79,7 @@ I build stuff with LLMs and spend an unreasonable amount of time getting them to
 ## 🌐 Find me
 
 <div align="center">
-  <a href="https://www.bilalirfanportfolio.online"><b>Portfolio</b></a>
+  <a href="https://www.bilalirfanportfolio.online"><img src="./Icons/portfolio.svg" alt="Portfolio" height="40"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:bilalirfancontact@gmail.com"><img src="./Icons/gmail.svg" alt="Gmail" height="40"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;

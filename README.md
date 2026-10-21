@@ -16,6 +16,8 @@ I build stuff with LLMs and spend an unreasonable amount of time getting them to
 ## 🔨 Featured
 
 **[AskMyDoc](https://github.com/BilalIrfanContact/AskMyDoc)**: ask a company's 10-K a question and get an answer you can actually check. It does its math with a calculator, checks every number against the filing, and says "not in the document" instead of making something up. [Case study →](https://www.bilalirfanportfolio.online/projects/askmydoc)
+
+**[Sketchnote](https://github.com/BilalIrfanContact/sketchnote)**: show your coding agent the problem instead of typing it out. Hit a hotkey, talk, draw on your screen, and one Ctrl+V pastes timestamped notes plus an annotated contact sheet. Runs on Linux (GNOME, Wayland), with a Rust service that transcribes your voice locally with whisper.cpp.
 <br>
 
 ## 🌱 Contributions

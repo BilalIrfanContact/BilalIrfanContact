@@ -1,100 +1,51 @@
-<div align="center">
+# Bilal Irfan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Bilal+%F0%9F%91%8B;I+build+things+with+LLMs;Probably+debugging+a+RAG+pipeline+rn" alt="Typing SVG" />
+**Applied AI engineer.** I build LLM applications and measure whether they're right.
 
-</div>
+Most of my time goes to the part of LLM work that's easy to skip: getting a system to say "not in the document" instead of inventing a number, and proving it with a benchmark instead of a demo. Python and TypeScript day to day, Rust when something has to be fast and local, Linux throughout.
 
+## Selected work
 
-## 👋 Hey there
+### [AskMyDoc](https://github.com/BilalIrfanContact/AskMyDoc)
 
-I build stuff with LLMs and spend an unreasonable amount of time getting them to admit when they don't know something. Mostly Python and TypeScript, usually on Linux, with Claude Code or Codex open in the other window.
+Ask a company's 10-K a question and get an answer you can check. Calculations go through a calculator instead of the model, every number in the answer is checked against the filing, and anything it can't back up becomes "not in the document".
 
-- 💬 Ask me about RAG, evals, or getting LLMs to stop making up numbers
-- 📫 bilalirfancontact@gmail.com
-<br>
+On a held-out set of 34 questions, run once, it answered **21 of 26** answerable questions correctly and refused **8 of 8** that the filing doesn't answer.
 
-## 🔨 Featured
+<img src="https://raw.githubusercontent.com/BilalIrfanContact/AskMyDoc/main/.github/readme/score-progress.svg" alt="Bar chart of working-set score as each change landed, rising from 5 of 41 correct to 29 of 41." width="720">
 
-**[AskMyDoc](https://github.com/BilalIrfanContact/AskMyDoc)**: ask a company's 10-K a question and get an answer you can actually check. It does its math with a calculator, checks every number against the filing, and says "not in the document" instead of making something up. [Case study →](https://www.bilalirfanportfolio.online/projects/askmydoc)
+[Live demo](https://askmydoc-drab.vercel.app) · [Case study](https://www.bilalirfanportfolio.online/projects/askmydoc) · [Source](https://github.com/BilalIrfanContact/AskMyDoc)
 
-**[Sketchnote](https://github.com/BilalIrfanContact/sketchnote)**: show your coding agent the problem instead of typing it out. Hit a hotkey, talk, draw on your screen, and one Ctrl+V pastes timestamped notes plus an annotated contact sheet. Runs on Linux (GNOME, Wayland), with a Rust service that transcribes your voice locally with whisper.cpp.
-<br>
+### [Sketchnote](https://github.com/BilalIrfanContact/sketchnote)
 
-## 🌱 Contributions
+Show your coding agent the problem instead of typing it out. Hit a hotkey, talk, and draw on your screen. One Ctrl+V pastes timestamped notes and an annotated contact sheet into Claude Code, Codex, or any chat box. It's a GNOME Shell extension with a Rust service behind it, and transcription runs locally with whisper.cpp. It installs with one command and ships as versioned releases.
 
-**[bulwark-mcp](https://github.com/churik5/bulwark-mcp/pull/7)**: a proxy that catches prompt injection before it reaches your AI agent. I made its errors a lot friendlier when Ollama isn't running. Merged ✅
-<br>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/BilalIrfanContact/sketchnote/main/docs/images/anatomy-light.png">
+  <img src="https://raw.githubusercontent.com/BilalIrfanContact/sketchnote/main/docs/images/anatomy-light.gif" alt="Sketchnote drawn as a film crew, with labels following a capture from the GNOME extension through recording and transcription to Ctrl+V." width="720">
+</picture>
 
+[Website](https://get.sketchnote.workers.dev) · [Source](https://github.com/BilalIrfanContact/sketchnote)
 
-## 🛠️ Tech Stack
+## Open source
 
-### AI / ML
-<table style="border:none;border-collapse:collapse;">
-  <tr>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/openai_dark.svg" alt="OpenAI" height="42"/><br/>OpenAI</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/gemini-color.svg" alt="Gemini" height="42" width="42"/><br/>Gemini</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/chroma-seeklogo.svg" alt="Chroma" height="42"/><br/>Chroma</td>
-  </tr>
-</table>
+Merged a fix to [bulwark-mcp](https://github.com/churik5/bulwark-mcp/pull/7), a proxy that catches prompt injection before it reaches your AI agent: it now explains what's wrong when Ollama isn't running instead of failing opaquely.
 
-### Backend
-<table style="border:none;border-collapse:collapse;">
-  <tr>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/python.svg" alt="Python" height="42"/><br/>Python</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/fastapi.svg" alt="FastAPI" height="42"/><br/>FastAPI</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/django.svg" alt="Django" height="42"/><br/>Django</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/flask-dark.svg" alt="Flask" height="42"/><br/>Flask</td>
-  </tr>
-</table>
+## Stack
 
-### Frontend
-<table style="border:none;border-collapse:collapse;">
-  <tr>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/nextjs_dark.svg" alt="Next.js" height="42"/><br/>Next.js</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/react_dark.svg" alt="React" height="42"/><br/>React</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/typescript.svg" alt="TypeScript" height="42"/><br/>TypeScript</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/javascript.svg" alt="JavaScript" height="42"/><br/>JavaScript</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./Icons/stack/python.svg" alt="Python" title="Python" height="36">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/stack/typescript.svg" alt="TypeScript" title="TypeScript" height="36">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/stack/rust.svg" alt="Rust" title="Rust" height="36">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/stack/fastapi.svg" alt="FastAPI" title="FastAPI" height="36">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/stack/nextdotjs.svg" alt="Next.js" title="Next.js" height="36">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/stack/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" height="36">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/stack/linux.svg" alt="Linux" title="Linux" height="36">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Icons/stack/claude.svg" alt="Claude Code" title="Claude Code" height="36">
+</p>
 
-### Databases
-<table style="border:none;border-collapse:collapse;">
-  <tr>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/postgresql.svg" alt="PostgreSQL" height="42"/><br/>PostgreSQL</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/supabase.svg" alt="Supabase" height="42"/><br/>Supabase</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/mongodb-icon-dark.svg" alt="MongoDB" height="42"/><br/>MongoDB</td>
-  </tr>
-</table>
+<p align="center">Retrieval and evals · tool calling · Supabase · GitHub Actions · Vercel</p>
 
-### Tools
-<table style="border:none;border-collapse:collapse;">
-  <tr>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/claude-ai-icon.svg" alt="Claude Code" height="42"/><br/>Claude Code</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/codex-color.svg" alt="Codex" height="42" width="42"/><br/>Codex</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/git.svg" alt="Git" height="42"/><br/>Git</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/linux.svg" alt="Linux" height="42"/><br/>Linux</td>
-    <td align="center" width="96" style="border:none;"><img src="./Icons/vercel_dark.svg" alt="Vercel" height="42"/><br/>Vercel</td>
-  </tr>
-</table>
-<br>
+## Contact
 
-## 🌐 Find me
-
-<div align="center">
-  <a href="https://www.bilalirfanportfolio.online"><img src="./Icons/portfolio.svg" alt="Portfolio" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bilalirfancontact@gmail.com"><img src="./Icons/gmail.svg" alt="Gmail" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/bilalirfancontact"><img src="./Icons/linkedin.svg" alt="LinkedIn" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/biloo0_2"><img src="./Icons/x_dark.svg" alt="X" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/user/biloo0asks/"><img src="./Icons/reddit.svg" alt="Reddit" height="40"/></a>
-</div>
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=100&section=footer" width="100%"/>
-
-</div>
+[Email](mailto:bilalirfancontact@gmail.com) · [Portfolio](https://www.bilalirfanportfolio.online) · [LinkedIn](https://linkedin.com/in/bilalirfancontact) · [X](https://x.com/biloo0_2)

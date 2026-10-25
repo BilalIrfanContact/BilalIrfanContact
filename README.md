@@ -2,7 +2,7 @@
 
 **Applied AI engineer.** I build LLM applications and measure whether they're right.
 
-Most of my time goes to the part of LLM work that's easy to skip: getting a system to say "not in the document" instead of inventing a number, and proving it with a benchmark instead of a demo. Python and TypeScript day to day, Rust when something has to be fast and local, Linux throughout.
+I build LLM systems you can check: answers that show their working, trace back to a source, and admit when there isn't one. I score them against a benchmark instead of trusting a demo. Python and TypeScript day to day, Rust when something has to be fast and local, Linux throughout.
 
 ## Selected work
 
@@ -14,7 +14,7 @@ On a held-out set of 34 questions, run once, it answered **21 of 26** answerable
 
 <img src="https://raw.githubusercontent.com/BilalIrfanContact/AskMyDoc/main/.github/readme/score-progress.svg" alt="Bar chart of working-set score as each change landed, rising from 5 of 41 correct to 29 of 41." width="720">
 
-[Live demo](https://askmydoc-drab.vercel.app) · [Case study](https://www.bilalirfanportfolio.online/projects/askmydoc) · [Source](https://github.com/BilalIrfanContact/AskMyDoc)
+[Website](https://askmydoc-drab.vercel.app) · [Repo](https://github.com/BilalIrfanContact/AskMyDoc)
 
 ### [Sketchnote](https://github.com/BilalIrfanContact/sketchnote)
 
@@ -25,7 +25,7 @@ Show your coding agent the problem instead of typing it out. Hit a hotkey, talk,
   <img src="https://raw.githubusercontent.com/BilalIrfanContact/sketchnote/main/docs/images/anatomy-light.gif" alt="Sketchnote drawn as a film crew, with labels following a capture from the GNOME extension through recording and transcription to Ctrl+V." width="720">
 </picture>
 
-[Website](https://get.sketchnote.workers.dev) · [Source](https://github.com/BilalIrfanContact/sketchnote)
+[Website](https://get.sketchnote.workers.dev) · [Repo](https://github.com/BilalIrfanContact/sketchnote)
 
 ## Open source
 

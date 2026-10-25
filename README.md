@@ -2,6 +2,8 @@
 
 **Applied AI engineer.** I build LLM applications and measure whether they're right.
 
+[bilalirfanportfolio.online](https://www.bilalirfanportfolio.online)
+
 I build LLM systems you can check: answers that show their working, trace back to a source, and admit when there isn't one. I score them against a benchmark instead of trusting a demo. Python and TypeScript day to day, Rust when something has to be fast and local, Linux throughout.
 
 ## Selected work
